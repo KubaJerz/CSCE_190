@@ -8,14 +8,25 @@ body{
     padding: 10px;
     background-color: lightgray;
     margin: 10px;
+    border-radius: 10px;
 }
 
-.assignment img{
+.assignment img :hover{
     width: 200px;
-    padding: 10px;
+    margin: 10px;
+    border: 3px solid darkred;
 }
 
 h1{
     color: darkblue;
     text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color:darkred
+}
+
+a:hover{
+    color: deeppink;
 }
