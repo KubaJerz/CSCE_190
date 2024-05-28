@@ -1,1 +1,1 @@
-# KubaJerz.github.io
+# KubaJerz.github.io/CSCE_190/
